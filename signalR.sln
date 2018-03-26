@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signalR", "signalR\signalR.csproj", "{251F41D4-E2C0-4EED-83F3-407DCE00ABEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signalR.Tests", "signalR.Tests\signalR.Tests.csproj", "{64AB390C-FA3E-432E-8072-1233244FD46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251F41D4-E2C0-4EED-83F3-407DCE00ABEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251F41D4-E2C0-4EED-83F3-407DCE00ABEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251F41D4-E2C0-4EED-83F3-407DCE00ABEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251F41D4-E2C0-4EED-83F3-407DCE00ABEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AB390C-FA3E-432E-8072-1233244FD46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AB390C-FA3E-432E-8072-1233244FD46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AB390C-FA3E-432E-8072-1233244FD46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AB390C-FA3E-432E-8072-1233244FD46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
